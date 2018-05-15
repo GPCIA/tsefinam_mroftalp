@@ -1,0 +1,12 @@
+asdasd
+	sasdasd
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="gpcia"
+    		fetch="https://github.com/"
+			revision="refs/heads/o8.1" />
+
+
+	<project path="platform_manifest" name="GPCIA/tsefinam_mroftalp" remote="gpcia" />
+</manifest>
